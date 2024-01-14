@@ -1,1 +1,80 @@
+body{background-color:#58433B; margin:0;}
+.a1{height:50px;}
+
+.aaa{pointer-events: none;} 
+	   
+.a1 a{float: left;
+		color: white;
+		 text-align: center;
+		 padding: 6px 16px;
+		 text-decoration: none;
+		 font-family:'Mv boli';
+		 font-size: 18px;}
+	
+.a1 a:hover{color:black;
+		       text-decoration:underline;
+		       background-color:white;} 
+
+div.bb {position: relative;
+		color: white;}
+
+div.b2{
+position:absolute;
+top:40%;
+left:45%;
+
+}		  
+
+div.bb input[name=btn]
+{
+background-color:#AD8C5F;
+font-size:30px;
+color:white;
+font-weight:bold;
+width:190px;
+border:8px solid #AD8C5F;
+border-radius:10px;
+font-family:'Sains serif';}
+
+div.bb input[name=subbtnn]
+{
+background-color:#AD8C5F;
+font-size:30px;
+color:white;
+font-weight:bold;
+width:190px;
+border:8px solid #AD8C5F;
+border-radius:10px;
+font-family:'Sains serif';}
+
+div.bb input[name=btn]:hover,input[name=subbtnn]:hover
+{
+	cursor:pointer;
+	opacity:0.7;
+}
+
+audio{height:100px; 
+	   width:70px;
+		position:fixed;
+	   left:93%;
+	   top:1%;
+	   opacity:0.3;}
+
+audio:hover{opacity:0.8;}
+
+.d1
+{
+  padding: 3px;
+  background-color:#58433B;
+  text-align:left;
+  font-size:12px;
+  color: gray;
+  height:50px;
+}
+div a.d2 {float:left;}
+.d3 {float:right;}
+
+	  
+
+
 
